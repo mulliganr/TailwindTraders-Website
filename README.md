@@ -1,4 +1,6 @@
 
+UPdated with new line 
+
 [![Build Status](https://dev.azure.com/ramullig/TailwindTraders%20-%20Demo/_apis/build/status/mulliganr.TailwindTraders-Website?branchName=master)](https://dev.azure.com/ramullig/TailwindTraders%20-%20Demo/_build/latest?definitionId=35&branchName=master)
 
 
