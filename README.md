@@ -1,3 +1,7 @@
+
+[![Build Status](https://dev.azure.com/ramullig/TailwindTraders%20-%20Demo/_apis/build/status/mulliganr.TailwindTraders-Website?branchName=master)](https://dev.azure.com/ramullig/TailwindTraders%20-%20Demo/_build/latest?definitionId=35&branchName=master)
+
+
 # Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
