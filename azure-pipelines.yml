@@ -1,5 +1,5 @@
 variables:
-  azureSubscription: Azure Service Principle
+  azureSubscription: TailwindTradersAzure
   resourcegroup: TailwindTraders
   location: North Europe
   ImageName: website
